@@ -5,4 +5,6 @@ title: Research
 
 ## Research areas
 
-More to come soon...
+![oec](./assets/oec_solvent_cavity_small.png)
+
+> More to come soon...
