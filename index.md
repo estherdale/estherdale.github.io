@@ -2,10 +2,8 @@
 layout: default 
 ---
 
-![face](./assets/me_round.jpeg){:style="display: block; width: 200px; height:auto; margin-left: auto; margin-right:40px; float: left;"}
-I'm a PhD student at the University of Cambridge, supervised by [Dr Andrew Morris](http://www.andrewjmorris.org), working on crystal structure prediction for energy storage materials. Current research interests include:
-* database software for high-throughput crystal structure prediction,
-* metal phosphide anodes for beyond-Li energy storage,
-* non-equilibrium electrode cycling from first principles.
-
-My CV is available [here](http://nbviewer.jupyter.org/github/ml-evs/CV/blob/master/Matthew_Evans_CV.pdf).
+![face](./assets/el_mugshot.jpg){:style="display: block; width: 200px; height:auto; margin-left: auto; margin-right:40px; float: left;"}
+I'm a PhD student at the University of Cambridge, supervised by [Dr Daniel Cole](https://blogs.ncl.ac.uk/danielcole/) and [Prof. Mike Payne](http://www.tcm.phy.cam.ac.uk/profiles/mcp1/) on methods for accurately simulating organometallic proteins. Current research interests include:
+* linear-scaling density functional theory
+* methods for treating strong correlation such as DFT + U and dynamical mean field theory
+* the oxygen-evolving centre of photosystem II

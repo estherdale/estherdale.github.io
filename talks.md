@@ -3,10 +3,9 @@ layout: default
 title: Presentations
 ---
 
-## Selected Talks
-- [`matador`: databases & crystal structure prediction](http://www.tcm.phy.cam.ac.uk/~me388/optimade/matador_optimade.pdf), Open Databases Integration for Materials Design (OPTiMaDe), Invited Talk, CECAM@EPFL, Switzerland, June 2018
-- [Crystal structure prediction for next-generation battery anodes](http://www.tcm.phy.cam.ac.uk/~me388/ss_11.17), Solid State Seminar Series, Department of Chemistry, University of Cambridge, November 2017
+## Selected Talk
+- [Advances in linear-scaling DFT and DMFT for biological applications](http://files.tcm.phy.cam.ac.uk/~ebl27/Slides_NGSCES_2017.pdf), New Generation in Strongly Correlated Electrons Systems 2017, Institute of Photonic Sciences, Barcelona, September 2017
 
-## Selected Posters
+## Selected Poster
 
-- [Crystal structure prediction for next-generation battery anodes](http://www.tcm.phy.cam.ac.uk/~me388/posters/mc13.pdf), RSC's 13th International Conference on Materials Chemistry, University of Liverpool, July 2017
+- [Electronic correlation in PSII](http://files.tcm.phy.cam.ac.uk/~ebl27/Poster_CCP9_2018.pdf), CCP9 Young Researchers' Meeting, University of York, July 2018
