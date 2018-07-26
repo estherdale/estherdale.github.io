@@ -12,6 +12,7 @@ linkedin_username: elinscott
 departmental_website: http://www.tcm.phy.cam.ac.uk/profiles/ebl27/
 scholar_id: 4_ejng0AAAAJ&hl
 orcid_id: 0000-0002-4967-9873
+google_analytics: UA-122965805-1
 exclude:
     - Gemfile
     - Gemfile.lock
