@@ -7,3 +7,5 @@ I'm a PhD student at the University of Cambridge, supervised by [Dr. Daniel Cole
 * linear-scaling density functional theory
 * methods for treating strong correlation such as DFT + U and dynamical mean field theory
 * the oxygen-evolving centre of photosystem II
+
+My CV can be found [here](http://files.tcm.phy.cam.ac.uk/~ebl27/elinscott_cv.pdf).
