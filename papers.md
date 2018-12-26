@@ -9,7 +9,7 @@ title: Papers
 Mohamed Ali al-Badri, EBL, Antoine Georges, Daniel J. Cole, and Cedric Weber, *under review* (2018). <a href="https://arxiv.org/abs/1811.05739"><i class="ai ai-arxiv "></i></a>
 
 <a href="https://doi.org/10.1016/j.ultramic.2018.11.007">__Analysis of a capped carbon nanotube (CNT) by linear-scaling density-functional theory__, </a> <br />
-Chris Edgcombe, Sabrina Masur, Jack Whaley-Baldwin, EBL, Crispin Barnes, *Ultramicroscopy -- accepted* (2018). <a href="https://doi.org/10.1016/j.ultramic.2018.11.007"><i class="ai ai-doi "></i>
+Chris Edgcombe, Sabrina Masur, Jack Whaley-Baldwin, EBL, and Crispin Barnes, *Ultramicroscopy -- accepted* (2018). <a href="https://doi.org/10.1016/j.ultramic.2018.11.007"><i class="ai ai-doi "></i>
 
 <a href="https://dx.doi.org/10.1103/PhysRevB.98.235157">__Role of spin in the calculation of Hubbard U and Hund's J parameters from first principles__,  </a> <br />
 EBL, Daniel J. Cole, Michael C. Payne, and David D. O'Regan, *Phys. Rev. B* **98**, 235157 (2018). <a href="https://dx.doi.org/10.1103/PhysRevB.98.235157"><i class="ai ai-doi "></i></a> <a href="https://arxiv.org/abs/1802.09048"><i class="ai ai-arxiv "></i></a>
