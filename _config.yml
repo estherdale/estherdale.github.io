@@ -17,3 +17,5 @@ google_analytics: UA-122965805-1
 exclude:
     - Gemfile
     - Gemfile.lock
+plugins:
+  - jekyll-gist
