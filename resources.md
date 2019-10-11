@@ -7,7 +7,7 @@ title: Resources
 My CV can be found [here](http://files.tcm.phy.cam.ac.uk/~ebl27/elinscott_cv.pdf)
 
 ## PhD thesis
-My PhD thesis is accessible via Cambridge's repository
+My PhD thesis is accessible via Cambridge's repository and can be found [here](https://doi.org/10.17863/CAM.44803)
 
 ## PhD thesis template
 A LaTeX template for theses can be found on [bitbucket](https://bitbucket.org/elinscott/thesis_template):
