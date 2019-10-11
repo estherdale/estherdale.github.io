@@ -30,5 +30,3 @@ University of Cambridge
 
 University of Otago
 - First-year [Biological Physics](https://www.otago.ac.nz/physics/study/undergraduate/index.html?papercode=PHSI191)
-
-## Pub quizzes
