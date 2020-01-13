@@ -4,14 +4,14 @@ title: Papers
 ---
 
 ## Papers
+<a href="https://www.nature.com/articles/s42005-019-0270-1">__Superexchange mechanism and quantum many body excitations in the archetypal di-Cu oxo-bridge__,  </a> <br />
+Mohamed Ali al-Badri, EBL, Antoine Georges, Daniel J. Cole, and Cedric Weber, *Comm. Phys.* **3** (2020). <a href="https://dx.doi.org/10.1038/s42005-019-0270-1"><i class="ai ai-doi "></i></a> <a href="https://arxiv.org/abs/1811.05739"><i class="ai ai-arxiv "></i></a>
+
 <a href="https://arxiv.org/abs/1911.07752">__ONETEP + TOSCAM: uniting dynamical mean field theory and linear-scaling density functional theory__,  </a> <br />
 EBL, Daniel J. Cole, Nicholas D. M. Hine, Michael C. Payne, and Cédric Weber (2019). <a href="https://arxiv.org/abs/1911.07752"><i class="ai ai-arxiv "></i></a>
 
 <a href="https://doi.org/10.1016/j.elspec.2019.146896">__Modelling a capped carbon nanotube by linear-scaling density-functional theory__,  </a><br />
 Sabrina M. Masur, EBL, Chris J. Edgcombe, *J. Electron Spectrosc. & Relat. Phenom.* accepted (2019). <a href="https://doi.org/10.1016/j.elspec.2019.146896"><i class="ai ai-doi "></i></a>
-
-<a href="https://arxiv.org/abs/1811.05739">__Super-exchange mechanism and quantum many body excitations in the archetypal hemocyanin/tyrosinase di-Cu oxo-bridge__,  </a> <br />
-Mohamed Ali al-Badri, EBL, Antoine Georges, Daniel J. Cole, and Cedric Weber, *Comm. Phys.* accepted (2019). <a href="https://arxiv.org/abs/1811.05739"><i class="ai ai-arxiv "></i></a>
 
 <a href="https://doi.org/10.1016/j.ultramic.2018.11.007">__Analysis of a capped carbon nanotube by linear-scaling density-functional theory__, </a> <br />
 Chris Edgcombe, Sabrina Masur, Jack Whaley-Baldwin, EBL, and Crispin Barnes, *Ultramicroscopy* **198**, 26 (2019). <a href="https://doi.org/10.1016/j.ultramic.2018.11.007"><i class="ai ai-doi "></i> <a href="https://arxiv.org/abs/1809.03890"><i class="ai ai-arxiv "></i></a>
