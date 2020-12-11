@@ -4,7 +4,7 @@ title: Resources
 ---
 
 ## CV 
-My CV can be found [here](http://files.tcm.phy.cam.ac.uk/~ebl27/elinscott_cv.pdf)
+My CV can be found [here](https://github.com/elinscott/cv/blob/master/cv.pdf)
 
 ## PhD thesis
 My PhD thesis is accessible via Cambridge's repository and can be found [here](https://doi.org/10.17863/CAM.44803)
@@ -14,7 +14,8 @@ A LaTeX template for theses can be found on [bitbucket](https://bitbucket.org/el
 
 `git clone git@bitbucket.org:elinscott/thesis_template.git`
 
-## Selected talk
+## Selected talks
+[Correcting the failings of DFT: DFT+U, Koopmans spectral functionals, and dynamical mean field theory](https://github.com/elinscott/files/blob/main/presentation_boston_2020.pdf?raw=true), Quantum Fluids in Isolation Seminar Series, Boston College, Newton MA (via zoom), December 2020
 [Advances in linear-scaling DFT and DMFT for biological applications](http://files.tcm.phy.cam.ac.uk/~ebl27/Slides_NGSCES_2017.pdf), New Generation in Strongly Correlated Electrons Systems 2017, Institute of Photonic Sciences, Barcelona, September 2017
 
 ## Selected poster
