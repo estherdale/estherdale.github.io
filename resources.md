@@ -19,6 +19,7 @@ A LaTeX template for theses can be found on [bitbucket](https://bitbucket.org/el
 [Advances in linear-scaling DFT and DMFT for biological applications](http://files.tcm.phy.cam.ac.uk/~ebl27/Slides_NGSCES_2017.pdf), New Generation in Strongly Correlated Electrons Systems 2017, Institute of Photonic Sciences, Barcelona, September 2017
 
 ## Selected poster
+[Accurately predicting electron affinities with Koopmans spectral functionals](https://github.com/elinscott/files/raw/main/poster_total_energy_and_forces_2021.pdf), 20th International Workshop on Computational Physics and Materials Science: Total Energy and Force Methods, Online, Feb 2021  
 [Electronic correlation in PSII](http://files.tcm.phy.cam.ac.uk/~ebl27/Poster_CCP9_2018.pdf), CCP9 Young Researchers' Meeting, University of York, July 2018
 
 ## Teaching
