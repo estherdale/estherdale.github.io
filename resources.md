@@ -9,11 +9,6 @@ My CV can be found [here](https://github.com/elinscott/cv/blob/master/cv.pdf)
 ## PhD thesis
 My PhD thesis is accessible via Cambridge's repository and can be found [here](https://doi.org/10.17863/CAM.44803)
 
-## PhD thesis template
-A LaTeX template for theses can be found on [bitbucket](https://bitbucket.org/elinscott/thesis_template):
-
-`git clone git@bitbucket.org:elinscott/thesis_template.git`
-
 ## Selected talks
 [Accurately predicting electron affinities with Koopmans spectral functionals](https://github.com/elinscott/files/raw/main/presentation_aps_2021.pdf), APS March Meeting, March 2021  
 [Correcting the failings of DFT: DFT+U, Koopmans spectral functionals, and dynamical mean field theory](https://www.youtube.com/watch?v=AI6qFGf1Zcw&ab_channel=JoshuahHeath), Quantum Fluids in Isolation Seminar Series, Boston College, Newton MA (via zoom), December 2020  

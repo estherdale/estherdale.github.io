@@ -12,8 +12,8 @@ Current research interests include:
    * evolution of the New Zealand flora
    * threatened plant ecology
 
-I completed my PhD at the University of Otago, supervised by [Prof. Bill Lee](https://www.landcareresearch.co.nz/about-us/our-people/william-lee), [Assoc. Prof. David Orlovich] (https://www.otago.ac.nz/botany/staff/davidorlovich.html), [Prof. Steven Higgins] (http://www.bayceer.uni-bayreuth.de/pfloek/de/mitarbeiter/mit/mitarbeiter_detail.php?id_obj=141103), and [Dr. Matt Larcombe](https://www.otago.ac.nz/botany/staff/mattlarcombe.html) on the effect of biome shifts on lineage diversification in plants. 
+I completed my PhD at the University of Otago, supervised by [Prof. Bill Lee](https://www.landcareresearch.co.nz/about-us/our-people/william-lee), [Assoc. Prof. David Orlovich](https://www.otago.ac.nz/botany/staff/davidorlovich.html), [Prof. Steven Higgins](http://www.bayceer.uni-bayreuth.de/pfloek/de/mitarbeiter/mit/mitarbeiter_detail.php?id_obj=141103), and [Dr. Matt Larcombe](https://www.otago.ac.nz/botany/staff/mattlarcombe.html) on the effect of biome shifts on lineage diversification in plants. 
 
 <center>
-<a class="twitter-timeline" data-width="500" data-height="600" data-theme="dark" href="https://twitter.com/estheraceae?ref_src=twsrc%5Etfw">Tweets by estheraceae</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-height="600" href="https://twitter.com/estheraceae?ref_src=twsrc%5Etfw">Tweets by estheraceae</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </center>

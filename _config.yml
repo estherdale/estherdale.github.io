@@ -13,27 +13,24 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-author: Edward Linscott
-title: Edward Linscott
-name: Edward Linscott
-email: edward.linscott[at]epfl.ch
-description: Postdoc at EPFL
+author: Esther Dale
+title: Esther Dale
+name: Esther Dale
+email: esther.e.dale[at]gmail.com
+description: Research Associate
 show_downloads: false
 description: >- # this means to ignore newlines until "baseurl:"
-  Website of Edward Linscott, postdoctoral researcher at EPFL
+  Website of Esther Dale, research associate in ecosystems and conservation
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
 theme: minima
-twitter_username: ed_linscott
-github_username: elinscott
-bitbucket_username: elinscott
-orcid_id: 0000-0002-4967-9873
-linkedin_username: elinscott
-departmental_website: https://people.epfl.ch/edward.linscott/
-scholar_id: 4_ejng0AAAAJ&hl
+twitter_username: estheraceae
+github_username: estherdale
+orcid_id: 0000-0001-8137-460X
+scholar_id: wHveNBkAAAAJ
 plugins:
   - jekyll-gist
 
