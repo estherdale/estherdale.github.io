@@ -8,4 +8,4 @@ My work centers around themes of plant diversification, biome shifts, and specia
 
 I also have ongoing work examining trait evolution in New Zealand lineages and I continue to publish work on how biome shifts influence diversification of lineages (e.g. [this paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248839)).  
 
-![mastingfig](./assets/mastingfig)
+![mastingfig](./assets/mastingfig.png)
