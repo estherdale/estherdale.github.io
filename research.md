@@ -3,18 +3,9 @@ layout: default
 title: Research
 ---
 
-## In English...
-I am interested in photosystem II (PSII), a protein found in algae, cyanobacteria, and higher plants. Within PSII lies the oxygen-evolving complex (OEC), a cluster of four manganese atoms and a calcium atom. The OEC is responsible for converting water into oxygen gas - a key step in photosynthesis. However, the precise oxygen-formation mechanism is not fully understood. My research involves performing computer simulations of the OEC in an attempt elucidate some of the details surrounding this reaction.
+## Research interests
+My work centers around themes of plant diversification, biome shifts, and speciation. Most recently, I've been examining the ecological consequences of whole genome duplication using a suite of New Zealand genera with multiple ploidy levels. Prior to that I was exploring the [macroevolutionary consequences of masting](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2020.0372) using the global MASTREE+ database of reproductive time series. Currently I mainly use modelling for my research, although I am also a keen field botanist and have experience with sampling in the field, common garden experiments, manipulative experiments, and labwork which I integrate as required.
 
-There are two main challenges to doing so. Firstly, our current go-to method for simulating materials at the atomistic scale is density functional theory, or "DFT". But standard DFT struggles with more than several hundred atoms. I use so-called "linear-scaling" DFT to allow me to simulate the thousands of atoms that make up PSII.
+I also have ongoing work examining trait evolution in New Zealand lineages and I continue to publish work on how biome shifts influence diversification of lineages (e.g. [this paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248839)).  
 
-The second challenge is due to the manganese atoms. The electrons belonging to these atoms are in such tight confines that they interact with one another exceptionally strongly --- so strongly, in fact, that DFT struggles to model their behaviour. To overcome this I develop and use more complicated techniques called DFT + U and dynamical mean field theory.
-
-## Research areas
-
-### Photosystem II
-![oec](./assets/oec_solvent_cavity_small.png)
-
-> Computational model of the oxygen evolving complex (white), with surrounding protein (red/orange) and implicit solvent (blue)
-
-More to come soon...
+![mastingfig](./assets/mastingfig)
