@@ -4,7 +4,7 @@ title: Resources
 ---
 
 ## CV 
-My CV can be found [here](https://github.com/estherdale/estherdale.github.io/blob/master/assets/CV.pdf)
+My CV can be found [here](./assets/CV.pdf)
 
 ## PhD thesis
 My PhD thesis is accessible via Otago's repository and can be found [here](http://hdl.handle.net/10523/9204)
