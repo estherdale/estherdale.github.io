@@ -14,11 +14,11 @@ LG Liddell, WG Lee, **EE Dale**, HM Meudt, NJ Matzke
 
 <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248839">__The effect of single biome occupancy on the estimation of biome shifts and the detection of biome conservatism__</a> <br />
 **EE Dale**, MJ Larcombe, WG Lee  
-*PloS one* 16 (3), e0248839 2021 <a href="https://doi.org/10.1371/journal.pone.0248839"><i class="ai ai-doi "></i></a>
+*PloS one* 16 (3), e0248839, 2021 <a href="https://doi.org/10.1371/journal.pone.0248839"><i class="ai ai-doi "></i></a>
 
 <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/jbi.13768">__Diversification is decoupled from biome fidelity: Acacia – a case study__</a> <br />
 **EE Dale**, MJ Larcombe, WG Lee, SI Higgins  
-*Journal of Biogeography* 47 (2), 538-552 2020 <a href="https://doi.org/10.1111/jbi.13768"><i class="ai ai-doi "></i></a>
+*Journal of Biogeography* 47 (2), 538-552, 2020 <a href="https://doi.org/10.1111/jbi.13768"><i class="ai ai-doi "></i></a>
 
 <a href="https://newzealandecology.org/nzje/3309">__Seed dispersal but not seed germination facilitated by seabirds: seed ecology of Cook’s scurvy grass__</a> <br />
 **E Dale**, P de Lange, B Burns  
