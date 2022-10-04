@@ -6,7 +6,7 @@ title: Papers
 ## Papers
 <a href="https://www.tandfonline.com/doi/full/10.1080/03036758.2022.2108071">__Diversification and trait evolution in New Zealand woody lineages across changing biomes__</a> <br />
 **EE Dale**, MJ Larcombe, BCM Potter, and WG Lee  
-*Journal of the Royal Society of New Zealand* 376 (1839), 20200372, 2021 <a href="https://doi.org/10.1080/03036758.2022.2108071 "></i></a>
+*Journal of the Royal Society of New Zealand*, 2022 <a href="https://doi.org/10.1080/03036758.2022.2108071 "><i class="ai ai-doi "></i></a>
 
 <a href="https://royalsocietypublishing.org/doi/10.1098/rstb.2020.0372">__Macroevolutionary consequences of mast seeding__</a> <br />
 **EE Dale**, JJ Foest, A Hacket-Pain, M Bogdziewicz, and AJ Tanentzap  
