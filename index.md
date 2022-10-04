@@ -5,10 +5,11 @@ layout: default
 ![face](./assets/ed_mugshot.jpg){:style="display: block; width: auto; height:350px; margin-left: auto; margin-right:40px; float: left;"}
 I am a Post-Doc in the Ecology and Evolution of Plant Sexual Systems Group with [Prof. John Pannell](https://www.unil.ch/dee/pannell-group) at UNIL in Lausanne, Switzerland. I'm currently looking at the evolution of dioecy from hermaphroditism comparing transitions via gynodioecy to those via monoecy.
 
-I am a also Reasearch Associate (postdoc level) in the group of [Prof. Bill Lee](https://www.landcareresearch.co.nz/about-us/our-people/william-lee) in the Ecosystems & Conservation group at Manaaki Whenua - Landcare Research, Dunedin, New Zealand. We have been examining genomic downsizing in the New Zealand flora and it's ecological consequences. 
+I am also a Reasearch Associate in the group of [Prof. Bill Lee](https://www.landcareresearch.co.nz/about-us/our-people/william-lee) in the Ecosystems & Conservation group at Manaaki Whenua - Landcare Research, Dunedin, New Zealand. We have been examining genomic downsizing in the New Zealand flora and its ecological consequences. 
 
 Current research interests include:
    * lineage diversification in plants
+   * plant gender dimorphism
    * biome shifts
    * ecological outcomes of whole genome duplication
    * evolution of the New Zealand flora
